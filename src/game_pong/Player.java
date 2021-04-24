@@ -35,7 +35,7 @@ public class Player {
 	}
 	
 	public void render(Graphics g) {
-		g.setColor(Color.black);
+		g.setColor(Color.pink);
 		g.fillRect(x, y, width, height);
 	}
 
