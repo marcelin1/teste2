@@ -35,7 +35,7 @@ public class Player {
 	}
 	
 	public void render(Graphics g) {
-		g.setColor(Color.blue);
+		g.setColor(Color.green);
 		g.fillRect(x, y, width, height);
 	}
 
